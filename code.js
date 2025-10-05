@@ -1,6 +1,3 @@
-// Minimal, human-readable, short-named Google Apps Script
-// Usage: paste into Apps Script and run `run()`
-
 function run() {
   const ss = SpreadsheetApp.getActiveSpreadsheet();
   const cfg = {
